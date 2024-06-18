@@ -12,7 +12,7 @@ def divide(x, y):
         return "Error! Division by zero."
     else:
         return x / y
-
+#added comments
 def display_menu():
     print("Calculator Menu:")
     print("1. Add")
